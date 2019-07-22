@@ -1,0 +1,97 @@
+/* html {
+    font-size: 20px;
+  } */
+  body{
+      height: auto;
+  }
+  .navbar{
+      background-color:pink;
+      height:67px;
+  }  
+  .logo{
+      padding:5px;
+      font-size:20px;
+  }
+  .nav-item{  
+      float:right;    
+      position: relative;
+      right:40rem;     
+      bottom: 10px;       
+  }
+  .nav-item >li > a{
+      text-decoration: none;
+      font-size:22px;
+  }
+  .item{
+      display: inline-block;
+      padding:5px;
+      
+  }
+  .item>a{
+      color:white;
+  }
+  .top-image{
+      width:100%;
+  }
+  .side-item{
+      display: inline;
+    
+  }
+  .item1{
+      background-color: pink;
+      height:50px;
+      margin: 7px 0;
+      width: 14rem;
+      margin-left:2px;
+  }
+  .side-item > li >a{
+      text-decoration: none;
+      align-content: center;
+      color:white;
+      margin-left:10px;
+      font-size: 22px;
+  }
+  .item2{
+    background-color: pink;
+    height:50px;
+    margin: 7px 0;
+    width: 14rem;
+    margin-left:2px;
+}
+  .item3{
+    background-color: pink;
+    height:50px;
+    margin: 7px 0;
+    width: 14rem;
+    margin-left:2px;
+}
+.desc1{
+    background-color:rgb(248, 222, 226);
+    font-size: 20px;
+
+}
+.desc1{
+    padding: 1rem;
+    height: 10rem;;
+
+}
+.content{
+   position: relative;
+   left: 16em; 
+   bottom: 20rem;
+   width:79%;
+}
+.footer{
+    background-color: grey;
+    height:70px;
+    text-align: center;
+    position: relative;
+    bottom: 17rem;
+     
+    
+}
+.foot-content{
+    text-align: center;
+    padding: 1.5rem;
+}
+ 

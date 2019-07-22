@@ -1,0 +1,63 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  text-align: center;
+  background-image:url("vendors/images/Achive.png");
+}
+
+.main-header {
+  padding-bottom: 15%;
+  width: 100%;
+  background-size: cover;
+  background-image: url("../images/header.jpg");
+  background-attachment: fixed;
+}
+
+/* From here */
+ header{
+
+	
+	float:right;    
+      position: ;
+      right:40rem;     
+      margin-left:10px; 
+}
+
+header ul {
+}
+
+header ul a {
+}
+
+header li {
+}
+
+header ul:after {
+}
+/* This is the implementation of the header part */
+
+.main-header img {
+/* Implementation of the main image (image of the white "Achieve" character)*/
+}
+
+.about {
+/* Implementation of the About Achieve part*/
+}
+
+/* from here */
+.function {
+}
+
+.function-images {
+}
+
+.function-image {
+}
+/* Here is the implementation of the function part */
+
+footer {
+/* Implementation of footer part */
+}

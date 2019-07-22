@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/index.css">
+    <title>DIVE INTO CODE</title>
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <img class="logo" src="images/logo.png" alt="logo" width="100">
+            <ul class="nav-item">
+                <li class="item"><a href="#">Home</a></li>
+                <li class="item"><a href="about.html">About</a></li>
+                <li class="item"><a href="services.html">Services</a></li>
+                <li class="item"><a href="">Contact</a></li>
+
+            </ul>
+        </nav>
+        <div class="top-img">
+            <img src="images/TOP.png" alt="top-image" class="top-image">
+        </div>
+    </header>

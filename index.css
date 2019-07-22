@@ -1,0 +1,70 @@
+/* html {
+    font-size: 20px;
+  } */
+  body{
+      height: auto;
+  }
+  .navbar{
+      background-color:pink;
+      height:67px;
+  }  
+  .logo{
+      padding:5px;
+      font-size:20px;
+  }
+  .nav-item{  
+      float:right;    
+      position: relative;
+      right:40rem;     
+      bottom: 10px;       
+  }
+  .nav-item >li > a{
+      text-decoration: none;
+      font-size:22px;
+  }
+  .item{
+      display: inline-block;
+      padding:5px;
+      
+  }
+  .item>a{
+      color:white;
+  }
+  .top-image{
+      width:100%;
+  }
+  
+  
+}
+.desc1{
+    
+    font-size: 20px;
+	width:480px;
+	
+
+    
+
+}
+.disc2{
+	width:150px;
+	margin-top:7rem;
+
+}
+}
+
+	.desc3{ align:center;
+}
+.footer{
+    background-color: grey;
+    height:70px;
+    text-align: center;
+    position: relative;
+    bottom: 17rem;
+     
+    
+}
+.foot-content{
+    text-align: center;
+    padding: 1.5rem;
+}
+ 
